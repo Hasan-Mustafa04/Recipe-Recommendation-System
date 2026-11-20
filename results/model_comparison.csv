@@ -1,0 +1,4 @@
+Model,Precision@10,Recall@10
+Hybrid Recommendation,0.0012,0.0035
+Case-Based Filtering,0.0012,0.0029
+Collaborative Filtering,0.0003,0.0004

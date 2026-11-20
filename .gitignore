@@ -1,0 +1,25 @@
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Private environment files
+.env
+
+# Large datasets
+data/raw/
+data/processed/
+
+# Large trained model
+models/*.joblib
+
+# System files
+.DS_Store
+Thumbs.db
